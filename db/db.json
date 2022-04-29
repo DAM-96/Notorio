@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Hola mundo!",
+        "text": "Este es un mensaje de prueba para la aplicación Notorio",
+        "id": "62ad7895-a1d2-408f-a831-339917d064fd"
+    },
+    {
+        "title": "Esta es otra nota de prueba",
+        "text": "Hola mundo!",
+        "id": "79b06e3e-b3cd-4695-bc6b-a165ced4b13c"
+    }
+]
